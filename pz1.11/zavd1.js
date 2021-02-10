@@ -12,20 +12,7 @@ function per(n,a){
 console.log(per(4,5))
 */
 
-/*
-function sviyvivbir(n){
-    for(i=1;i<n;i++){
-     console.log(i);
-    }
-    function fizz(i){
-        if(i%3==0){
-            console.log(i);
-        }
-        return i;
-    }
-    return fizz();
-}
-console.log(sviyvivbir(10))*/
+
 
 /*
 function Calculate(a,b,c){
