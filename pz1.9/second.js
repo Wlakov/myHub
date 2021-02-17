@@ -1,3 +1,17 @@
+//Task 1
+/*
+let a = 100;
+
+nextPrime:
+    for(let i = 2; i <= a; i++) {
+        for (let j = 2; j < i; j++) {
+            if (i % j == 0) continue nextPrime;
+        }
+        console.log(i + " ");
+    }
+*/
+
+//Task 2
 /*
 let i =0;
 do {
@@ -13,19 +27,23 @@ do {
     i++;
 }while (i<=10);
 */
+
+//Task 3
 /*
 for (let i = 0; i < 10; i++)
 console.log(i);
 */
 
+//Task 5
 /*for (var result = 10000, counter = 0; result > 50; result = result / 2, counter++);
 console.log(result,counter);*/
 
+//Task 7
 /*let tc= prompt("Температура за Цельсієм", "");
 let tf = (9/5)*tc + 32;
-alert("Температура за Фаренгейтом: " + tf);*/
+alert("Температура за Фаренгейтом: " + tf);
 
-/*let num = Number(prompt("Число від 1 до 12",""));
+let num = Number(prompt("Число від 1 до 12",""));
     switch(num){
         case 1:
             month="Зима-Січень";
@@ -77,6 +95,7 @@ alert("Температура за Фаренгейтом: " + tf);*/
             break;
     }*/
 
+//Task 8
 /*let num = Number(prompt("Число від 1 до 7", ""));
 switch (num){
     case 1:
@@ -101,15 +120,6 @@ switch (num){
         alert("Неділя");
         break;
 }*/
-let a = 100;
-
-nextPrime:
-    for(let i = 2; i <= a; i++) {
-        for (let j = 2; j < i; j++) {
-            if (i % j == 0) continue nextPrime;
-        }
-        console.log(i + " ");
-    }
 
 
 
