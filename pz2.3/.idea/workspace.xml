@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6ad0e3b-e48c-4476-bd41-ddb101cd878c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../pz1.11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pz1.11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pz1.11/.idea/pz1.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pz1.11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pz1.13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pz1.13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pz1.13/.idea/pz1.13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pz1.13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pz1.9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pz1.9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pz1.9/.idea/pz1.9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pz1.9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.11/zavd1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.11/zavd1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.13/eighth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/eighth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.13/fifth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/fifth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.13/fourth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/fourth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.13/ninth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/ninth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.13/seventh.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/seventh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.13/sixth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/sixth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.15/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.15/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.15/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.15/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.9/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.9/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.9/second.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.9/second.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1p9Wsby6HayaiDyf4dAW7rMT0uu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6ad0e3b-e48c-4476-bd41-ddb101cd878c" name="Default Changelist" comment="" />
+      <created>1614595993663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614595993663</updated>
+      <workItem from="1614595994837" duration="681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
