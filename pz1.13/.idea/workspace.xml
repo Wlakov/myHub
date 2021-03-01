@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e028eca-d820-44d4-b85a-008e385d122b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fourth.js" beforeDir="false" afterPath="$PROJECT_DIR$/fourth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.15/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.15/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz2.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pz2.3/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6e028eca-d820-44d4-b85a-008e385d122b" name="Default Changelist" comment="aa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pz2.3" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -52,8 +47,16 @@
       <workItem from="1614178576973" duration="1301000" />
       <workItem from="1614589330654" duration="3063000" />
       <workItem from="1614592499733" duration="110000" />
-      <workItem from="1614598185071" duration="811000" />
+      <workItem from="1614598185071" duration="865000" />
     </task>
+    <task id="LOCAL-00001" summary="aa">
+      <created>1614599030362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614599030362</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +73,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aa" />
   </component>
 </project>

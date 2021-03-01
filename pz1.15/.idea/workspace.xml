@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78597aa9-73e8-45fb-87d3-434e94401739" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.11/zavd1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.11/zavd1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.13/eighth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/eighth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.13/fifth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/fifth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.13/fourth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/fourth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.13/ninth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/ninth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.13/seventh.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/seventh.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.13/sixth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/sixth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.9/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.9/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.9/second.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.9/second.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz1.9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pz2.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pz2.3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pz2.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -58,6 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614592610758</updated>
       <workItem from="1614592611902" duration="3349000" />
+      <workItem from="1614599726267" duration="103000" />
+      <workItem from="1614599903399" duration="178000" />
     </task>
     <servers />
   </component>
@@ -86,5 +82,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
