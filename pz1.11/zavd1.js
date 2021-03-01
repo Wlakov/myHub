@@ -199,7 +199,7 @@ console.log(detect(Number(detectionNumber)));
 */
 
 // Task 10
-/*let array = [7, 3, 5, 6, "kafedra22"];
+let array = [7, 3, 5, 6, "kafedra22"];
 
 function arrayTrick(array) {
     array.reverse();
@@ -210,4 +210,4 @@ function arrayTrick(array) {
     }
     return array;
 };
-console.log(arrayTrick(array));*/
+console.log(arrayTrick(array));

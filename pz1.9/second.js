@@ -38,62 +38,64 @@ console.log(i);
 /*for (var result = 10000, counter = 0; result > 50; result = result / 2, counter++);
 console.log(result,counter);*/
 
+//Task 6
+/*let num = Number(prompt("Число від 1 до 12",""));
+switch(num){
+    case 1:
+        month="Зима-Січень";
+        alert("1" + month);
+        break;
+    case 2:
+        month="Зима-Лютий";
+        alert("" + month);
+        break;
+    case 3:
+        month="Зима-Березень";
+        alert("" + month);
+        break;
+    case 4:
+        month="Зима-Квітень";
+        alert("" + month);
+        break;
+    case 5:
+        month="Зима-Травень";
+        alert("" + month);
+        break;
+    case 6:
+        month="Зима-Червень";
+        alert("" + month);
+        break;
+    case 7:
+        month="Зима-Липень";
+        alert("" + month);
+        break;
+    case 8:
+        month="Зима-Серпень";
+        alert("" + month);
+        break;
+    case 9:
+        month="Зима-Вересень";
+        alert("" + month);
+        break;
+    case 10:
+        month="Зима-Жовтень";
+        alert("" + month);
+        break;
+    case 11:
+        month="Зима-Листопад";
+        alert("" + month);
+        break;
+    case 12:
+        month="Зима-Грудень";
+        alert("" + month);
+        break;
+}*/
+
 //Task 7
 /*let tc= prompt("Температура за Цельсієм", "");
 let tf = (9/5)*tc + 32;
 alert("Температура за Фаренгейтом: " + tf);
 
-let num = Number(prompt("Число від 1 до 12",""));
-    switch(num){
-        case 1:
-            month="Зима-Січень";
-            alert("1" + month);
-            break;
-        case 2:
-            month="Зима-Лютий";
-            alert("" + month);
-            break;
-        case 3:
-            month="Зима-Березень";
-            alert("" + month);
-            break;
-        case 4:
-            month="Зима-Квітень";
-            alert("" + month);
-            break;
-        case 5:
-            month="Зима-Травень";
-            alert("" + month);
-            break;
-        case 6:
-            month="Зима-Червень";
-            alert("" + month);
-            break;
-        case 7:
-            month="Зима-Липень";
-            alert("" + month);
-            break;
-        case 8:
-            month="Зима-Серпень";
-            alert("" + month);
-            break;
-        case 9:
-            month="Зима-Вересень";
-            alert("" + month);
-            break;
-        case 10:
-            month="Зима-Жовтень";
-            alert("" + month);
-            break;
-        case 11:
-            month="Зима-Листопад";
-            alert("" + month);
-            break;
-        case 12:
-            month="Зима-Грудень";
-            alert("" + month);
-            break;
-    }*/
 
 //Task 8
 /*let num = Number(prompt("Число від 1 до 7", ""));
