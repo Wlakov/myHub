@@ -80,7 +80,7 @@ console.log(((email)=>{
  })());*/
 
 //8
- (()=>{
+ /*(()=>{
      alert('Розпочинається гра "Вгадай число"!');
      let answer = true;
      let date = new Date();
@@ -102,4 +102,4 @@ console.log(((email)=>{
                  Спроба ${attempts}: число ${attempt} – вірно`)
          answer = confirm(`Вам вдалося вгадати число ${result} за ${attempts} спроб!\nБажаєте ще раз зіграти?`)
      }
- })();
+ })();*/
