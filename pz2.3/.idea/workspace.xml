@@ -1,40 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6ad0e3b-e48c-4476-bd41-ddb101cd878c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pz1.11/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.11/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.11/.idea/pz1.11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.13/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.13/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.13/.idea/pz1.13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.13/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.13/eighth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.13/fifth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.13/fourth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.13/ninth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.13/seventh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.13/sixth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.15/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.15/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.15/.idea/pz1.15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.15/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.15/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.15/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.9/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.9/.idea/pz1.9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pz1.9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pz2.3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.11/zavd1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.11/zavd1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.9/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.9/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pz1.9/second.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.9/second.js" afterDir="false" />
+    <list default="true" id="b6ad0e3b-e48c-4476-bd41-ddb101cd878c" name="Default Changelist" comment="first">
+      <change beforePath="$PROJECT_DIR$/../pz1.15/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pz1.15/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second.js" beforeDir="false" afterPath="$PROJECT_DIR$/second.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third.js" beforeDir="false" afterPath="$PROJECT_DIR$/third.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1p9Wsby6HayaiDyf4dAW7rMT0uu" />
@@ -61,7 +37,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pz1.13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,7 +53,17 @@
       <workItem from="1614595994837" duration="681000" />
       <workItem from="1614598051065" duration="30000" />
       <workItem from="1614598150161" duration="33000" />
+      <workItem from="1614599058651" duration="622000" />
+      <workItem from="1614607396027" duration="8412000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1614608864963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614608864963</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,11 +74,31 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="pz2.3" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
