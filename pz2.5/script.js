@@ -160,7 +160,7 @@ emitter.on('rename', function () {
     });
 });
 emitter.on('deleteFile', function () {
-    rl.question('Type the name of file to delete\n', (deleteFileName) => {
+    rl.question('Напишіть назву файлу для видалення\n', (deleteFileName) => {
         fs.rm(__dirname + '/' + deleteFileName, { recursive:true }, (err) => {
             if(err){
                 console.log("\n\nУпссс....\n\n");

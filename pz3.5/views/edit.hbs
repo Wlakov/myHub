@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+    <title>Редагування</title>
+    <meta charset="utf-8" />
+    <style>.field{width:180px;}</style>
+</head>
+<body>
+<h1>Редагування</h1>
+<form action="/edit" method="POST">
+    <input type="hidden" name="milId" value="{{military.milId}}" />
+    <label>Ім'я</label><br>
+    <input name="nameofmil" value="{{military.nameofmil}}"  class="field" /><br><br>
+    <label>Прізвище</label><br>
+    <input name="lastname"  value="{{military.lastname}}" class="field" /><br><br>
+    <label>По-батькові</label><br>
+    <input name="fathername"  value="{{military.fathername}}" class="field" /><br><br>
+    <label>Звання</label><br>
+    <input name="rankof"  value="{{military.rankof}}" class="field" /><br><br>
+    <label>Дата народження</label><br>
+    <input name="dob"  value="{{military.dob}}" class="field" /><br><br>
+    <input type="submit" value="ОК" />
+</form>
+<a href="/">Повернутися</a>
+</body>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+    <title>Редагування підрозділу</title>
+    <meta charset="utf-8" />
+    <style>.field{width:180px;}</style>
+</head>
+<body>
+<h1>Редагування</h1>
+<form action="/editunit" method="POST">
+    <input type="hidden" name="unitId" value="{{unit.unitId}}" />
+    <label>Ім'я</label><br>
+    <input name="nameofunit" value="{{unit.nameofunit}}"  class="field" /><br><br>
+    <input type="submit" value="ОК" />
+</form>
+<a href="/indexunit">Повернутися</a>
+</body>

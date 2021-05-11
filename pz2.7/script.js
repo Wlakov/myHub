@@ -1,9 +1,9 @@
 let fs = require('fs');
 let path = 'D:\\Documents\\ProjectX\\capital_country.csv';
-let parse = require('csv-parse');
+let csv = require('csv-parse');
 let rl= require('readline');
 let pathofnewfile='D:\\Documents\\ProjectX\\data.js'
-
+let util = require('util');
 const readline=rl.createInterface({
     input:process.stdin,
     output:process.stdout
@@ -25,19 +25,20 @@ function newFile (newFileName) {
     }
     //readline.close();
 
-newFile('data');
-const result=[];
-let promise = new Promise(function (resolve, reject){
+/*newFile('data.js');*/
+function crs(path) {
     fs.createReadStream(path)
-        .pipe(parse())
-        .on('data',(data)=>result.push(data))
-        .on('end',()=>{
-            fs.createWriteStream(pathofnewfile)
-            .on('error', function(err) { Console.log(err) });
-            result.forEach(value => .write(`${value}\r\n`));
-            .end();
+        .pipe(csv())
+        .on('data', (row) => {
+            console.log(row);
+            return row;
+        })
+        .on('end', () => {
+            console.log('CSV file successfully processed');
         });
-})
+}
+
+crs(path);
 
 
 

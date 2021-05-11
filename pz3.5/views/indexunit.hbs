@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+    <title>Підрозділи</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+<h1>ОБЛІК</h1>
+<p><a href="/createunit">Додати</a></p>
+<table>
+    <tr><th>Unit</th></tr>
+    {{#each unit}}
+        <tr>
+            <td>{{this.nameofunit}}</td>
+            <td>
+                <a href="editunit/{{this.unitId}}">Редагувати</a>|
+                <form action="deleteunit/{{this.unitId}}" method="POST" style="display:inline;">
+                    <input type="submit" value="Delete" />
+                </form>
+            </td>
+        </tr>
+    {{/each}}
+</table>
+<a href="/">Повернутися</a>
+</body>
