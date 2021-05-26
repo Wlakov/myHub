@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Облік</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+<h1>Посади</h1>
+<p><a href="/createpos">Додати посаду</a></p>
+<table>
+    <tr><th>Посада</th></tr>
+    {{#each milpositions}}
+        <tr>
+            <td>{{this.Id}}</td>
+            <td>{{this.nameofpos}}</td>
+            <td>
+                <a href="editpos/{{this.Id}}">Редагувати посаду</a>|
+                <form action="deletepos/{{this.Id}}" method="POST" style="display:inline;">
+                    <input type="submit" value="Delete" />
+                </form>
+            </td>
+        </tr>
+    {{/each}}
+</table>
+<a href="/">Повернутися</a>
+</body>
+<html>

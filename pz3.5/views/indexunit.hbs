@@ -1,18 +1,20 @@
 <!DOCTYPE html>
+<html>
 <head>
-    <title>Підрозділи</title>
+    <title>Облік</title>
     <meta charset="utf-8" />
 </head>
 <body>
-<h1>ОБЛІК</h1>
-<p><a href="/createunit">Додати</a></p>
+<h1>Підрозділи</h1>
+<p><a href="/createunit">Додати підрозділ</a></p>
 <table>
-    <tr><th>Unit</th></tr>
-    {{#each unit}}
+    <tr><th>Підрозділи</th></tr>
+    {{#each units}}
         <tr>
+            <td>{{this.unitId}}</td>
             <td>{{this.nameofunit}}</td>
             <td>
-                <a href="editunit/{{this.unitId}}">Редагувати</a>|
+                <a href="editpos/{{this.unitId}}">Редагувати підрозділ</a>|
                 <form action="deleteunit/{{this.unitId}}" method="POST" style="display:inline;">
                     <input type="submit" value="Delete" />
                 </form>
@@ -22,3 +24,4 @@
 </table>
 <a href="/">Повернутися</a>
 </body>
+<html>

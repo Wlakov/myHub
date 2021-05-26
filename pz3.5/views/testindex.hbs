@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Облік</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+<h1>Облік</h1>
+<p><a href="/">Продивитися військовослужбовців</a></p>
+<p><a href="/posindex">Продивитися посади</a></p>
+<p><a href="/indexunit">Продивитися підрозділи</a></p>
+<table>
+    <tr><th>Посада</th><th>Ім'я</th><th>Прізвище</th><th>По-батькові</th><th>Звання</th><th>Підрозділ</th></tr>
+    {{#each militaries}}
+        <tr>
+            <td>{{this.nameofpos}}</td>
+            <td>{{this.nameofmil}}</td>
+            <td>{{this.lastname}}</td>
+            <td>{{this.fathername}}</td>
+            <td>{{this.rankof}}</td>
+            <td>{{this.nameofunit}}</td>
+            <td>
+                <a href="/edit/{{this.milId}}">Редагувати військовослужбовця</a>
+                <form action="delete/{{this.milId}}" method="POST" style="display:inline;">
+                    <input type="submit" value="Delete" />
+                </form>
+                <a href="editunit/{{this.unitId}}">Редагувати підрозділ</a>|
+                <form action="deleteunit/{{this.unitId}}" method="POST" style="display:inline;">
+                    <input type="submit" value="Delete" />
+                </form>
+                <a href="editpos/{{this.Id}}">Редагувати посаду</a>|
+                <form action="deletepos/{{this.Id}}" method="POST" style="display:inline;">
+                    <input type="submit" value="Delete" />
+                </form>
+            </td>
+        </tr>
+    {{/each}}
+</table>
+</body>
+<html>

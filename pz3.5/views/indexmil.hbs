@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Облік</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+<h1>Військовослужбовці</h1>
+<p><a href="/create">Додати військовослужбовця</a></p>
+<p><a href="/testindex">Повна інформація про військовослужбовця</a></p>
+<table>
+    <tr><th>ID</th><th>Ім'я</th><th>Прізвище</th><th>По-батькові</th><th>Звання</th></tr>
+    {{#each militaries}}
+        <tr>
+            <td>{{this.milId}}</td>
+            <td>{{this.nameofmil}}</td>
+            <td>{{this.lastname}}</td>
+            <td>{{this.fathername}}</td>
+            <td>{{this.rankof}}</td>
+            <td>
+                <a href="edit/{{this.milId}}">Редагувати військовослужбовця</a>|
+                <form action="delete/{{this.milId}}" method="POST" style="display:inline;">
+                    <input type="submit" value="Delete" />
+                </form>
+            </td>
+        </tr>
+    {{/each}}
+</table>
+</body>
+<html>

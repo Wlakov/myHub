@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+    <title>Редагування</title>
+    <meta charset="utf-8" />
+    <style>.field{width:180px;}</style>
+</head>
+<body>
+<h1>Редагування</h1>
+<form action="/editpos" method="POST">
+    <input type="hidden" name="Id" value="{{milposition.Id}}" />
+    <label>Назва посади</label><br>
+    <input name="nameofpos" value="{{milposition.nameofpos}}"  class="field" /><br><br>
+    <input type="submit" value="ОК" />
+</form>
+<a href="/">Повернутися</a>
+</body>
